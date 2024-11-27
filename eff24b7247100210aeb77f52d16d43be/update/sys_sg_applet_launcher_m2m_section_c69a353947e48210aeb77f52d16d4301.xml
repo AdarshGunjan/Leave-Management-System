@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="LMS Portal">033ee21d47240210aeb77f52d16d43c1</applet_launcher>
+        <order/>
+        <section display_value="Leave Bucket icon section">c29af13947e48210aeb77f52d16d43fe</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-24 20:24:04</sys_created_on>
+        <sys_id>c69a353947e48210aeb77f52d16d4301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Leave Management System" source="x_1040531_leave_ms">eff24b7247100210aeb77f52d16d43be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">eff24b7247100210aeb77f52d16d43be</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_c69a353947e48210aeb77f52d16d4301</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-24 20:24:04</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

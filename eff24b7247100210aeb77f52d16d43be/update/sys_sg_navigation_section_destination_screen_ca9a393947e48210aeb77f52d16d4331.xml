@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_screen">
+    <sys_sg_navigation_section_destination_screen action="INSERT_OR_UPDATE">
+        <applet display_value="Leave Bucket">ff92f1bd47a48210aeb77f52d16d4374</applet>
+        <background_color/>
+        <background_color_variable display_value="Badge - Secondary Info - Background Color">d9d05d03070e201083c548f78ad3007c</background_color_variable>
+        <foreground_color/>
+        <foreground_color_variable display_value="Accordion Divider - Color">1bc0d903070e201083c548f78ad3009b</foreground_color_variable>
+        <icon display_value="List">073e261d47240210aeb77f52d16d434f</icon>
+        <image/>
+        <name>Leave Bucket destination screen</name>
+        <sys_class_name>sys_sg_navigation_section_destination_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-24 20:24:04</sys_created_on>
+        <sys_id>ca9a393947e48210aeb77f52d16d4331</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Leave Bucket destination screen</sys_name>
+        <sys_package display_value="Leave Management System" source="x_1040531_leave_ms">eff24b7247100210aeb77f52d16d43be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">eff24b7247100210aeb77f52d16d43be</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_destination_screen_ca9a393947e48210aeb77f52d16d4331</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-24 20:25:25</sys_updated_on>
+    </sys_sg_navigation_section_destination_screen>
+</record_update>

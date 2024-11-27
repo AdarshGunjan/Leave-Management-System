@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit function(Extended task table)">e3c446e3473c0210aeb77f52d16d437a</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit function instance</label>
+        <location>top</location>
+        <name>Edit function instance</name>
+        <order/>
+        <parent>ac81a59547780210aeb77f52d16d4342</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 17:53:44</sys_created_on>
+        <sys_id>6bc446e3473c0210aeb77f52d16d437f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit function instance</sys_name>
+        <sys_package display_value="Leave Management System" source="x_1040531_leave_ms">eff24b7247100210aeb77f52d16d43be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">eff24b7247100210aeb77f52d16d43be</sys_scope>
+        <sys_update_name>sys_sg_button_instance_6bc446e3473c0210aeb77f52d16d437f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 17:53:44</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=6bc446e3473c0210aeb77f52d16d437f"/>
+</record_update>

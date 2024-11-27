@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>true</available_offline>
+        <header_button/>
+        <header_titles>a09b4fd747248210aeb77f52d16d432c</header_titles>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>LMS Portal</name>
+        <required_roles>x_1040531_leave_ms.leave_bucket_user,x_1040531_leave_ms.leave_calculator_user,itil,x_1040531_leave_ms.extending_task_table_user</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-23 10:52:43</sys_created_on>
+        <sys_id>033ee21d47240210aeb77f52d16d43c1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>LMS Portal</sys_name>
+        <sys_package display_value="Leave Management System" source="x_1040531_leave_ms">eff24b7247100210aeb77f52d16d43be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">eff24b7247100210aeb77f52d16d43be</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_033ee21d47240210aeb77f52d16d43c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-07 10:10:19</sys_updated_on>
+        <title>LMS Portal</title>
+    </sys_sg_applet_launcher>
+</record_update>

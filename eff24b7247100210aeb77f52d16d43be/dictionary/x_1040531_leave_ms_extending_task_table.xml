@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7cebccd947b00210aeb77f52d16d43cf" extends="task" label="Extending task table" max_length="40" name="x_1040531_leave_ms_extending_task_table" type="collection">
+        <element label="Requested by" max_length="32" name="requested_by" reference="sys_user" type="reference"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Current Location" max_length="40" name="current_location" type="string"/>
+        <element label="Full Name" max_length="40" name="full_name" type="string"/>
+        <element choice="1" label="status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element label="comment" max_length="40" name="comment" type="string"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Leave Request</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-16 09:31:44</sys_created_on>
+        <sys_id>ec981e8f47100210aeb77f52d16d43f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Leave Request</sys_name>
+        <sys_package display_value="Leave Management System" source="x_1040531_leave_ms">eff24b7247100210aeb77f52d16d43be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">eff24b7247100210aeb77f52d16d43be</sys_scope>
+        <sys_update_name>sys_ux_screen_type_ec981e8f47100210aeb77f52d16d43f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-16 09:31:44</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=ec981e8f47100210aeb77f52d16d43f0"/>
+</record_update>
